@@ -1,5 +1,5 @@
-# **Happy Birthday lol**
+# <p align="center"> **Happy Birthday lol**
 
 ![Rufus](https://raw.githubusercontent.com/bigspider-bigworm/big-spider-big-worm/gh-pages/docs/assets/images/IMG_7210.jpg)
 
-
+</p>
